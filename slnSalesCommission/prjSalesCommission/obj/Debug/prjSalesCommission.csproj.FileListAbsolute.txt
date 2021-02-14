@@ -1,0 +1,9 @@
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\bin\Debug\prjSalesCommission.exe.config
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\bin\Debug\prjSalesCommission.exe
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\bin\Debug\prjSalesCommission.pdb
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.csprojResolveAssemblyReference.cache
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.frmSalesCommission.resources
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.Properties.Resources.resources
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.csproj.GenerateResource.Cache
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.exe
+C:\Users\500152900\Desktop\slnSalesCommission\prjSalesCommission\obj\Debug\prjSalesCommission.pdb

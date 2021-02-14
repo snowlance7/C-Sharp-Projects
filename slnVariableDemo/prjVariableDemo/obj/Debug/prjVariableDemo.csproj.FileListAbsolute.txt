@@ -1,0 +1,9 @@
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\bin\Debug\prjVariableDemo.exe.config
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\bin\Debug\prjVariableDemo.exe
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\bin\Debug\prjVariableDemo.pdb
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.frmVariableDemo.resources
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.Properties.Resources.resources
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.exe
+C:\Users\TEMP\Desktop\slnVariableDemo\prjVariableDemo\obj\Debug\prjVariableDemo.pdb

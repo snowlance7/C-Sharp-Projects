@@ -1,0 +1,9 @@
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\bin\Debug\prjStateCapitals.exe.config
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\bin\Debug\prjStateCapitals.exe
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\bin\Debug\prjStateCapitals.pdb
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.csprojResolveAssemblyReference.cache
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.frmStateCapitals.resources
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.Properties.Resources.resources
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.csproj.GenerateResource.Cache
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.exe
+C:\Users\gagev\Desktop\slnStateCapitals\prjStateCapitals\obj\Debug\prjStateCapitals.pdb
